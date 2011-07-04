@@ -1,0 +1,21 @@
+settings =
+{
+	orientation = 
+	{
+		default = "portrait"
+	},
+	
+	iphone =
+    {
+    	plist =
+        {
+        	
+        	UIStatusBarHidden=true,
+        	
+        	UIAppFonts = 
+            	{
+                	"shanghai.ttf"
+                }
+        },
+	},
+}
